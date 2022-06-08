@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chi1989
-- 👀 I’m interested in Tech, Customer Relationship Management,Charity.
+- 👀 I’m an iOS Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
